@@ -1,4 +1,4 @@
-# Desafio 07 Rockeseat - GoRestaurant
+# Desafio 07 Rockeseat - GoFinances
 
 Desafio formulado durante o BootCamp da escola [Rocketseat](https://rocketseat.com.br/)
 
